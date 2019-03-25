@@ -8,6 +8,7 @@
         <span
           v-for="(tab,i) in tabs"
           @click="changeTabIndex(i)"
+          :key="i"
         >
           <router-link
             :to="tab.path"
@@ -30,6 +31,7 @@
       },
       methods:{
         changeTabIndex(i){
+          console.log('changeTabIndex ',i);
           this.$store.commit("TAB_INDEX",i);
         }
       },
@@ -40,21 +42,21 @@
               path:"/index",
               name:"首页"
             },
-            // {
-            //   path:"/serve",
-            //   name:"软件定制"
-            // },
-            // {
-            //   path:"/case",
-            //   name:"案例"
-            // },
+            {
+              path:"/serve",
+              name:"公司介绍"
+            },
+            {
+              path:"/case",
+              name:"新闻咨询"
+            },
             {
               path:"/about",
-              name:"关于"
+              name:"生产基地"
             },
             {
               path:"/connect",
-              name:"联系"
+              name:"联系我们"
             }
           ]
         }
