@@ -23,7 +23,7 @@
 
       <div class="m2 container clearfix">
         <template v-for="(el,i) in items">
-            <Item  :itemprop="items[i]" :index="i"></Item>
+            <Item :itemprop="el" :index="i"></Item>
         </template>
       </div>
 

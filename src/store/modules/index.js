@@ -11,7 +11,8 @@ const state = {
 const mutations = {
     //1.简单的可以直接在mutations中更改
     [types.TAB_INDEX](state,index){
-      state.tabIndex = index
+      state.tabIndex = index;
+      console.log(index);
     },
 
     [types.ITEM](state,item){
