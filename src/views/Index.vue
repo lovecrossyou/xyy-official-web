@@ -4,7 +4,7 @@
         <Tabs ></Tabs>
         <div class="swiper-box rgba">
           <swiper :options="swiperOption" ref="swiper" class="z-index_-1">
-            <swiper-slide v-for="(poster,index) in slides" :key="index" style="height:580px;background: url(./static/images/poster_about.png) center center no-repeat;background-size: auto 100%; ">
+            <swiper-slide v-for="(poster,index) in slides" :key="index" style="height:580px;background: url(http://qnimage.xiteng.com/lunbo2.jpg) center center no-repeat;background-size: auto 100%; ">
               <div>{{slides.src}}</div>
             </swiper-slide>
           </swiper>
