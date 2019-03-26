@@ -340,13 +340,13 @@ padding-right: 50px;
 .rgba{
   width:100%;
   height:100%;
-  background: rgba(0,0,0,0.4);
+  /*background: rgba(0,0,0,0.4);*/
 }
 .header{
     position: relative;
 }
 footer{
-    background: #42474b;
+    background: #999;
     padding:43px 0;
 }
 
@@ -356,6 +356,7 @@ footer{
     position: absolute;
     top:0;
     z-index: 10;
+  /*background-color: #fff;*/
 }
 .main{
     position:absolute;
