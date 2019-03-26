@@ -52,7 +52,7 @@
 
 <script>
   import Tabs from '@/components/common/tabs'
-  import Banner from '@/components/common/banner'
+  import Banner from '@/components/common/Banner'
   import Intro from '@/components/common/Intro'
   import Model1 from "@/components/index/model-1"
   import Item from '@/components/index/item'
