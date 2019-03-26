@@ -62,7 +62,7 @@
                   <span class="c-gray">10266000000738896</span></li>
                 <li class="mar-t-15">
                   <span class="bold">开户银行：</span>
-                  <span class="c-gray"> 北京京广支行 </span>
+                  <span class="c-gray"> 华夏银行北京京广支行 </span>
                 </li>
                 <li class="mar-t-15">
                   <span class="bold">联系电话：</span>
@@ -72,67 +72,7 @@
             </div>
           </div>
         </div>
-        <!--<div class="clearfix container-small pad-t-62 pad-l-118 pad-b-94 bg-white mar-b-67">-->
-          <!--<div class="left">-->
-            <!--<div class="width100">-->
-              <!--<img src="@/imgs/addres.png" alt="">-->
-            <!--</div>-->
-          <!--</div>-->
-          <!--<div class="left pad-l-124 font-12 ">-->
-            <!--<p class="font-14 bold hei-39">开票信息</p>-->
-            <!--<ul class="bor-tb-bank wid-398">-->
-              <!--<li class="line-h-39 bor-t-1-gray">-->
-                <!--<span class="wid-80 bold">公司名称</span>-->
-                <!--<span class="c-gray font-12">上海汇亚信息科技有限公司</span>-->
-              <!--</li>-->
-              <!--<li class="line-h-39 bor-t-1-gray">-->
-                <!--<span class="wid-80 bold">税号</span>-->
-                <!--<span class="c-gray">91310112666055788N</span>-->
-              <!--</li>-->
-              <!--<li class="line-h-39 bor-t-1-gray">-->
-                <!--<span class="wid-80 bold">单位地址</span>-->
-                <!--<span class="c-gray">中国（上海）自由贸易试验区张衡路666弄2号201室</span>-->
-              <!--</li>-->
-              <!--<li class="line-h-39 bor-t-1-gray">-->
-                <!--<span class="wid-80 bold">电话号码</span>-->
-                <!--<span class="c-gray">021-58303589</span>-->
-              <!--</li>-->
-              <!--<li class="line-h-39 bor-t-1-gray">-->
-                <!--<span class="wid-80 bold">银行账户</span>-->
-                <!--<span class="c-gray">3168 5803 0005 4445 7</span>-->
-              <!--</li>-->
-            <!--</ul>-->
-            <!--<p class="font-14 bold line-h-39 mar-t-15">乘车线路</p>-->
-            <!--<ul class="bor-tb-bank  font-12 ">-->
-              <!--<li class="line-h-39 bor-t-1-gray">-->
-                <!--<div>-->
-                  <!--<span class="subway chuxing"></span>-->
-                  <!--<span class="c-gray font-12 bold">张江高科2号口</span>-->
-                <!--</div>-->
-                <!--<div>-->
-                  <!--<span class="num2 chuxing font-12">2</span>-->
-                  <!--<span class="c-gray font-12">张江高科2号出口</span>-->
-                <!--</div>-->
-              <!--</li>-->
-              <!--<li class="bor-t-1-gray">-->
-                <!--<div class="mar-t-15">-->
-                  <!--<span class="gongjiao chuxing"></span>-->
-                  <!--<span class="c-gray bold">公交</span>-->
-                <!--</div>-->
-                <!--<div class="c-gray line-hei-30">-->
-                  <!--<span class="wid-180 inline-block mar-l-25">161路张衡路科苑路下</span>-->
-                  <!--<span class="wid-180 inline-block">大桥六线张衡路科苑路下</span>-->
-                  <!--<br>-->
-                  <!--<span class="wid-180 inline-block mar-l-25">浦东25路张衡路科苑路下</span>-->
-                  <!--<span class="wid-180 inline-block">188路张衡路科苑路下</span>-->
-                <!--</div>-->
-
-              <!--</li>-->
-
-            <!--</ul>-->
-          <!--</div>-->
-
-        <!--</div>-->
+        
       </div>
       <div style="margin-top: 150px"></div>
       <Foot></Foot>

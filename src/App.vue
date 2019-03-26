@@ -35,13 +35,13 @@ export default {
           this.$store.commit("TAB_INDEX",1);
           break;
         case '/case':
-          this.$store.commit("TAB_INDEX",2);
+          this.$store.commit("TAB_INDEX",4);
           break;
         case '/about':
-          this.$store.commit("TAB_INDEX",3);
+          this.$store.commit("TAB_INDEX",2);
           break;
         case '/connect':
-          this.$store.commit("TAB_INDEX",4);
+          this.$store.commit("TAB_INDEX",3);
           break;
         default:
           break;

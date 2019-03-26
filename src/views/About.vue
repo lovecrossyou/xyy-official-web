@@ -20,26 +20,26 @@
       </header>
       <div class="container-small clearfix  flex bg-white mar-t-60">
         <div class=" wid-878 pad-l-86 pad-r-106 height100">
-          <div class="about-title font-30 c-cyan mar-t-50 mar-b-30">汇亚科技</div>
-          <div class="about-content font-16">上海汇亚信息科技有限公司是经过上海信息委、经济委员会认定的“双软”软件企业，公司成立于2007年9月，2010年被上海市闵行区政府评定为上海市见习基地，2011年被上海市闵行区政府认定为上海高校产学研联合单位，并与上海交通大学博士后研究中心建立了物联网与云计算研究合作。2012年2月公司取得了“汇亚”及相关LOGO商标注册证书。2012年5月，公司荣获上海市创新基金。同时公司也获得了多项软件产品著作权及软件产品登记证书。</div>
+          <div class="about-title font-30 c-cyan mar-t-50 mar-b-30">我们的使命</div>
+          <div class="about-content font-16">公司承担的“首都真水工程”是经北京市政府社会工作办公室、中共北京市委社会工作委员会指导。核心目标是实现北京市包装饮用水行业服务能力整合，规范销售网点服务标准，打造北京社区一公里服务圈重货物流产业，提高从业人员服务素养，为北京市民提供“绿色、品质、安全、健康、放心”的信息化、标准化饮用水服务体系。</div>
           <div class="clearfix mar-t-58">
             <div class="left mar-r-106">
               <div class="about_tip about_tip1 wid-244"></div>
-              <div class="font-14 c-gray wid-244 t-center  mar-t-35">在软件信息服务领域，依靠点点滴滴、锲而不舍的艰苦追求，使我们逐渐成为行业内领先企业是汇亚的目标</div>
+              <div class="font-14 c-gray wid-244 t-center  mar-t-35">由北京监督管理局支持，行业协会推动。线上下单、结算与线下配送相结合</div>
             </div>
             <div class="left">
               <div class="about_tip about_tip2 wid-244"></div>
-              <div class="font-14 c-gray wid-244 t-center  mar-t-35" >提供高质量技术服务是汇亚生存之本</div>
+              <div class="font-14 c-gray wid-244 t-center  mar-t-35" >通过平台下单、精准配送。客户通过平台了解水站、水厂的各种信息。达到全民安全、健康饮用水服务</div>
             </div>
           </div>
           <div class="clearfix  mar-t-58 pad-b-114">
             <div class="left mar-r-106">
               <div class="about_tip about_tip3 wid-244"></div>
-              <div class="font-14 c-gray wid-244 t-center  mar-t-35">质量是我们的自尊心</div>
+              <div class="font-14 c-gray wid-244 t-center  mar-t-35">平台作为核心。水厂、水站以及客户全部通过平台获取信息。平台配送数据精准无误，体现产业价值</div>
             </div>
             <div class="left">
               <div class="about_tip about_tip4"></div>
-              <div class="font-14 c-gray wid-244 t-center mar-t-35">不断提升中华民族软件信息服务国际竞争力是汇亚的崇高理想</div>
+              <div class="font-14 c-gray wid-244 t-center mar-t-35">管理运营平台，规范桶装水市场。打造北京社区一公里服务圈重货物流产业，改变原有配送模式，增加配送商盈利点</div>
             </div>
           </div>
         </div>
@@ -60,29 +60,9 @@
           </ul>
         </div>
       </div>
-      <div class="container-small flex pad-l-86 mar-t-15 bg-white">
-        <div class="wid-271 mar-t-52">
-          <div class="font-22">办公环境</div>
-          <div class="line-2 wid-18 bg-gray mar-t-22 mar-b-43"></div>
-          <div class="font-14 c-gray">汇亚办公位于盛大全球研发中心，2017年搬
-            入至今，全面开启高品质研发之路，在许多
-            行业留下足迹。
-          </div>
-        </div>
-        <div class="wid-894"><img src="@/imgs/environment.png" class="width100" alt=""></div>
-      </div>
+      
       <div class="container-small bg-white mar-t-15">
-        <div class="swiper-bottom">
-          <div>
-            <swiper :options="swiperOption" ref="swiper" class="z-index_-1">
-              <swiper-slide v-for="(poster,index) in slides" :key="index" style="height:580px;background: url(./static/images/poster_about.png) center center no-repeat;background-size: auto 100%; ">
-                <div>{{slides.src}}</div>
-              </swiper-slide>
-            </swiper>
-          </div>
-          <div class="swiper-button-next"></div>
-          <div class="swiper-button-prev"></div>
-        </div>
+        
       </div>
       <Foot></Foot>
       </div>

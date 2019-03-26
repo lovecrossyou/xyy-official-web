@@ -57,13 +57,13 @@
               path:"/serve",
               name:"公司介绍"
             },
-            {
-              path:"/case",
-              name:"新闻咨询"
-            },
+            // {
+            //   path:"/case",
+            //   name:"新闻咨询"
+            // },
             {
               path:"/about",
-              name:"生产基地"
+              name:"公司愿景"
             },
             {
               path:"/connect",
