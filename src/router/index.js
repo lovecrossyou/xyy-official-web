@@ -8,7 +8,6 @@ Vue.use(Router)
 
 const Index = resolve => require(['@/views/Index.vue'],resolve)
 const About = resolve => require(['@/views/About.vue'],resolve)
-const Case = resolve => require(['@/views/Case.vue'],resolve)
 const Connect = resolve => require(['@/views/Connect.vue'],resolve)
 const Serve = resolve => require(['@/views/Serve.vue'],resolve)
 const Detail = resolve => require(['@/views/Detail.vue'],resolve)
@@ -28,11 +27,6 @@ export default new Router({
       path: '/about',
       name: 'about',
       component:About
-    },
-    {
-      path: '/case',
-      name: 'case',
-      component:Case
     },
     {
       path: '/connect',

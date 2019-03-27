@@ -8,14 +8,14 @@
         </div>
         <div class="poster-wrap width100 bg-post-connect">
           <div class="rgba">
-            <img src="imgs/poster_case.png"  style="width:100%;" alt="">
+            <img src="imgs/poster_connect.png"  style="width:100%;" alt="">
           </div>
         </div>
 
-        <div class="main">
-          <div class="font-20 c-white">快速沟通您的软件需求</div>
-          <div class="font-42 c-white">专业顾问为您提供服务</div>
-        </div>
+        <!--<div class="main">-->
+          <!--<div class="font-20 c-white">快速沟通您的软件需求</div>-->
+          <!--<div class="font-42 c-white">专业顾问为您提供服务</div>-->
+        <!--</div>-->
       </header>
 
 
@@ -72,6 +72,7 @@
             </div>
           </div>
         </div>
+        
       </div>
       <div style="margin-top: 150px"></div>
       <Foot></Foot>

@@ -4,7 +4,7 @@
         <Tabs ></Tabs>
         <div class="swiper-box rgba">
           <swiper :options="swiperOption" ref="swiper" class="z-index_-1">
-            <swiper-slide v-for="(poster,index) in slides" :key="index" style="height:580px;background: url(http://qnimage.xiteng.com/lunbo2.jpg) center center no-repeat;background-size: auto 100%; ">
+            <swiper-slide v-for="(poster,index) in slides" :key="index" style="width:100%;height:580px;background: url(http://qnimage.xiteng.com/shangjiaruzhu.jpg) center center no-repeat;background-size: auto 100%; ">
               <div>{{slides.src}}</div>
             </swiper-slide>
           </swiper>
@@ -53,7 +53,7 @@
 
 <script>
     import Tabs from '@/components/common/tabs'
-    import Banner from '@/components/common/banner'
+    import Banner from '@/components/common/Banner'
     import Intro from '@/components/common/Intro'
     import Model1 from "@/components/index/model-1"
     import Item from '@/components/index/item'
@@ -107,7 +107,7 @@
                 content:'10余年的行业经验积累，为您提供全方位互联网服务'
               },
               {
-                title:'新闻热点',
+                title:'水知识',
                 content:'桶装水是指采用自来水或抽取地下水，经过现代工业技术（反渗透、电渗析、蒸馏、树脂软化等）处理而成的纯净水或矿泉水，由灌装生产线灌装至PC桶得到的产品。'
               },
               {

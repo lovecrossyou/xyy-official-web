@@ -4,7 +4,7 @@
       <Tabs ></Tabs>
       <div class="swiper-box rgba">
         <swiper :options="swiperOption" ref="swiper" class="z-index_-1">
-          <swiper-slide v-for="(poster,index) in slides" :key="index" style="height:580px;background: url(http://qnimage.xiteng.com/lunbo2.jpg) center center no-repeat;background-size: auto 100%; ">
+          <swiper-slide v-for="(poster,index) in slides" :key="index" style="width:100%;height:580px;background: url(http://qnimage.xiteng.com/shangjiaruzhu.jpg) center center no-repeat;background-size: auto 100%; ">
             <div>{{slides.src}}</div>
           </swiper-slide>
         </swiper>
@@ -43,7 +43,7 @@
         </div>
       </div>
     </div>
-    <QQ></QQ>
+    <!-- <QQ></QQ> -->
     <Foot></Foot>
 
   </div>
@@ -52,7 +52,7 @@
 
 <script>
   import Tabs from '@/components/common/tabs'
-  import Banner from '@/components/common/banner'
+  import Banner from '@/components/common/Banner'
   import Intro from '@/components/common/Intro'
   import Model1 from "@/components/index/model-1"
   import Item from '@/components/index/item'
