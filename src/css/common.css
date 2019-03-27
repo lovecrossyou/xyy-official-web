@@ -384,14 +384,14 @@ footer{
 }
 .bg-post-about{
     background: url(http://qnimage.xiteng.com/fuwu.jpg) center center no-repeat;
-  background-size: 95% 550px;
+  background-size: 100% 550px;
 }
 .bg-post-serve{
     background: url(../imgs/poster_serve.png) center center no-repeat;
 }
 .bg-post-connect{
     background: url(http://qnimage.xiteng.com/zaixian.jpg) center center no-repeat;
-  background-size: 95% 550px;
+  background-size: 100% 550px;
 
 }
 .about_tip{
