@@ -9,7 +9,7 @@
 
         <div class="poster-wrap width100 bg-post-about">
           <div class="rgba">
-            <img src="http://qnimage.xiteng.com/fuwu.jpg"  style="width:100%;height:580px;" alt="">
+            <img src="@/imgs/poster_about.png"  style="width:0;" alt="">
           </div>
         </div>
 

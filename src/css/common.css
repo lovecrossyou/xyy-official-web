@@ -383,13 +383,16 @@ footer{
     background: url(../imgs/poster_case.png) center center no-repeat;
 }
 .bg-post-about{
-    background: url(../imgs/poster_about.png) center center no-repeat;
+    background: url(http://qnimage.xiteng.com/fuwu.jpg) center center no-repeat;
+  background-size: 95% 550px;
 }
 .bg-post-serve{
     background: url(../imgs/poster_serve.png) center center no-repeat;
 }
 .bg-post-connect{
-    background: url(../imgs/poster_connect.png) center center no-repeat;
+    background: url(http://qnimage.xiteng.com/zaixian.jpg) center center no-repeat;
+  background-size: 95% 550px;
+
 }
 .about_tip{
     height:97px;

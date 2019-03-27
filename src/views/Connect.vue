@@ -8,7 +8,7 @@
         </div>
         <div class="poster-wrap width100 bg-post-connect">
           <div class="rgba">
-            <img src="imgs/poster_case.png"  style="width:100%;" alt="">
+            <img src="imgs/poster_connect.png"  style="width:100%;" alt="">
           </div>
         </div>
 
