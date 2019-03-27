@@ -2,7 +2,7 @@
   <div class="top bannerfix container-small">
     <div class="mar-t-29 clearfix nav">
       <div class="logo-wrap left">
-        <router-link to="/index"><img src="@/imgs/logo.png" alt=""></router-link>
+        <router-link to="/index"><img src="http://qnimage.xiteng.com/logo.png" alt=""></router-link>
       </div>
       <div class="right line-h-63 font-16 " >
         <span
