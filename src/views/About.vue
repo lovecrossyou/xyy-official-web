@@ -20,7 +20,7 @@
       </header>
       <div class="container-small clearfix  flex bg-white mar-t-60">
         <div class=" wid-878 pad-l-86 pad-r-106 height100">
-          <div class="about-title font-30 c-cyan mar-t-50 mar-b-30">汇亚科技</div>
+          <div class="about-title font-30 c-cyan mar-t-50 mar-b-30">汇格科技</div>
           <div class="about-content font-16">上海汇亚信息科技有限公司是经过上海信息委、经济委员会认定的“双软”软件企业，公司成立于2007年9月，2010年被上海市闵行区政府评定为上海市见习基地，2011年被上海市闵行区政府认定为上海高校产学研联合单位，并与上海交通大学博士后研究中心建立了物联网与云计算研究合作。2012年2月公司取得了“汇亚”及相关LOGO商标注册证书。2012年5月，公司荣获上海市创新基金。同时公司也获得了多项软件产品著作权及软件产品登记证书。</div>
           <div class="clearfix mar-t-58">
             <div class="left mar-r-106">

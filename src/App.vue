@@ -34,14 +34,11 @@ export default {
         case '/serve':
           this.$store.commit("TAB_INDEX",1);
           break;
-        case '/case':
+        case '/about':
           this.$store.commit("TAB_INDEX",2);
           break;
-        case '/about':
-          this.$store.commit("TAB_INDEX",3);
-          break;
         case '/connect':
-          this.$store.commit("TAB_INDEX",4);
+          this.$store.commit("TAB_INDEX",3);
           break;
         default:
           break;
