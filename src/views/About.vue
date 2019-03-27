@@ -9,14 +9,14 @@
 
         <div class="poster-wrap width100 bg-post-about">
           <div class="rgba">
-            <img src="@/imgs/poster_about.png"  style="width:0;" alt="">
+            <img src="http://qnimage.xiteng.com/fuwu.jpg"  style="width:100%;height:580px;" alt="">
           </div>
         </div>
 
-        <div class="main">
-          <div class="font-20 c-white">心怀匠人之心  努力将每一个作品塑造成行业典范</div>
-          <div class="font-42 c-white">专业与可信赖的互联网供应商</div>
-        </div>
+        <!--<div class="main">-->
+          <!--<div class="font-20 c-white">心怀匠人之心  努力将每一个作品塑造成行业典范</div>-->
+          <!--<div class="font-42 c-white">专业与可信赖的互联网供应商</div>-->
+        <!--</div>-->
       </header>
       <div class="container-small clearfix  flex bg-white mar-t-60">
         <div class=" wid-878 pad-l-86 pad-r-106 height100">

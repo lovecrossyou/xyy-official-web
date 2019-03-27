@@ -12,10 +12,10 @@
           </div>
         </div>
 
-        <div class="main">
-          <div class="font-20 c-white">快速沟通您的软件需求</div>
-          <div class="font-42 c-white">专业顾问为您提供服务</div>
-        </div>
+        <!--<div class="main">-->
+          <!--<div class="font-20 c-white">快速沟通您的软件需求</div>-->
+          <!--<div class="font-42 c-white">专业顾问为您提供服务</div>-->
+        <!--</div>-->
       </header>
 
 
