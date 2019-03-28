@@ -11,11 +11,6 @@
             <img src="imgs/poster_connect.png"  style="width:100%;" alt="">
           </div>
         </div>
-
-        <!--<div class="main">-->
-          <!--<div class="font-20 c-white">快速沟通您的软件需求</div>-->
-          <!--<div class="font-42 c-white">专业顾问为您提供服务</div>-->
-        <!--</div>-->
       </header>
 
 
@@ -50,7 +45,7 @@
             <div class="left font-14 pad-l-24">
               <ul>
                 <li class="mar-t-15">
-                  <span class="bold">账户名称：</span>
+                  <span class="bold">公司名称：</span>
                   <span class="c-gray">北京汇格信息科技有限公司</span>
                 </li>
                 <li class="mar-t-15">
